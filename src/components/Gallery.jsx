@@ -10,7 +10,7 @@ const images = [
 
 export default function Gallery() {
   return (
-    <section className="py-24 px-0 bg-brand-green">
+    <section id="gallery" className="py-24 px-0 bg-brand-green">
       <div className="text-center mb-16 px-4">
         <motion.h2 
           initial={{ opacity: 0, y: 20 }}

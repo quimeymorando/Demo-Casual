@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
 @theme {
-  --color-brand-terracotta: #E07A5F;
+  --color-brand-terracotta: #de724a;
   --color-brand-cream: #FDFBF7;
-  --color-brand-green: #2A3C24;
+  --color-brand-green: #182e22;
   
   --font-sans: "Inter", system-ui, sans-serif;
-  --font-heading: "Outfit", system-ui, sans-serif;
+  --font-heading: "Playfair Display", serif;
 }
 
 @layer base {
